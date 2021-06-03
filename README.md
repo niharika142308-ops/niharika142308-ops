@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niharika142308-ops
 - 👀 I’m interested in data science and python 
-- 🌱 I’m currently learning new skills of Python and ruby 
-- 💞️ I’m interested in building interesting projects  
+- 🌱 I’m currently learning new skills of Python, Django and ruby 
+- 💞️ I’m interested in building fun projects  
 - Competitive Programmer 👀
 - Ask me about anything, I'll be happy to help.
 
